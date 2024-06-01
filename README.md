@@ -23,10 +23,10 @@ Oyun Listesi Ekranı: Bir tür seçildikten sonra, kullanıcılar Oyun Listesi E
 
 Oyun Detay Ekranı: Kullanıcı bir listedeki oyuna dokunduğunda, Oyun Detay Ekranı'na yönlendirilir. Bu ekran, seçilen oyun hakkında ayrıntılı bilgiler gösterir, bunlar arasında:
 
-.Oyunun büyük bir arka plan resmi
-.Oyunun adı belirgin bir konumda
-.Oyunun çıkış tarihi
-.Yıldız ikonu ile gösterilen oyunun puanı
+-Oyunun büyük bir arka plan resmi
+-Oyunun adı belirgin bir konumda
+-Oyunun çıkış tarihi
+-Yıldız ikonu ile gösterilen oyunun puanı
 
 Provider ile Durum Yönetimi: Uygulama, durum yönetimi için Provider paketini kullanır. GameProvider sınıfı, API'dan veri çekmek, oyun listesini yönetmek ve yükleme durumunu izlemekten sorumludur.
 
@@ -53,10 +53,10 @@ Game List Screen: After selecting a genre, users are taken to the Game List Scre
 
 Game Detail Screen: When a user taps on a game in the list, they are navigated to the Game Detail Screen. This screen shows detailed information about the selected game, including:
 
-.A large background image of the game
-.The game’s name in a prominent position
-.The release date of the game
-.The rating of the game displayed with a star icon
+-A large background image of the game
+-The game’s name in a prominent position
+-The release date of the game
+-The rating of the game displayed with a star icon
 
 State Management with Provider: The application uses the Provider package for state management. The GameProvider class is responsible for fetching data from the API, managing the list of games, and tracking the loading state.
 
