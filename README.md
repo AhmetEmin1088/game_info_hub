@@ -37,9 +37,13 @@ API Servisi: ApiService sınıfı, RAWG Video Games Database API ile yapılan t�
 -English-
 
 ERCIYES UNIVERSITY
+
 MOBILE APPLICATION DEVELOPMENT FINAL PROJECT
+
 LECTURER = ASST. PROF. DR. FEHİM KÖYLÜ
+
 STUDENT NAME = AHMET EMİN YILMAZ
+
 PROJECT NAME = GAME INFO HUB
 
 The application, named "Game Info Hub", is designed to provide users with detailed information about various games categorized by genre.The "Game Info Hub" allows users to select a game genre, view a list of games within that genre, and see detailed information about each game, including its name, release date, background image, and rating.
