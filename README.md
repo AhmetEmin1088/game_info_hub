@@ -73,7 +73,7 @@ MAIN PAGE (ANA SAYFA)
 ![Ekran Görüntüsü (226)](https://github.com/AhmetEmin1088/game_info_hub/assets/77226294/db03e9d0-7105-46f0-8059-1198cf289ed9)
 
 
-GAME LIST PAGE(OYUN LİSTESİ SAYFASI)
+GAME LIST PAGE (OYUN LİSTESİ SAYFASI)
 
 ![Ekran Görüntüsü (225)](https://github.com/AhmetEmin1088/game_info_hub/assets/77226294/0dea8c19-71a1-4e43-bb15-9d83d553d2b8)
 
