@@ -65,3 +65,13 @@ Game Detail Screen: When a user taps on a game in the list, they are navigated t
 State Management with Provider: The application uses the Provider package for state management. The GameProvider class is responsible for fetching data from the API, managing the list of games, and tracking the loading state.
 
 API Service: The ApiService class handles all network requests to the RAWG Video Games Database API. It includes methods for fetching games by genre, parsing JSON responses, and handling errors.
+
+
+![Ekran Görüntüsü (224)](https://github.com/AhmetEmin1088/game_info_hub/assets/77226294/f52028e6-52a4-4b57-b0d9-f02fd85e6868)
+![Ekran Görüntüsü (226)](https://github.com/AhmetEmin1088/game_info_hub/assets/77226294/db03e9d0-7105-46f0-8059-1198cf289ed9)
+![Ekran Görüntüsü (225)](https://github.com/AhmetEmin1088/game_info_hub/assets/77226294/0dea8c19-71a1-4e43-bb15-9d83d553d2b8)
+
+
+
+
+
